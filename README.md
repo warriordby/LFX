@@ -1,5 +1,5 @@
 # LFX
-The public repository for paper ”Unifying Light Field Perception with Field of Parallax“
+The public repository for paper ”Unifying Light Field Perception with Field of Parallax“\
 Fei Teng1,* Buyin Deng1,∗ Boyuan Zheng1 Kai Luo1 Kunyu Peng2
 Jiaming Zhang2,3 Kailun Yang1,†
 1Hunan University 2Karlsruhe Institute of Technology 3ETH Zurich
